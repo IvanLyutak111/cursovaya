@@ -1,0 +1,30 @@
+4
+Power= Borya
+Analitics= 9
+Curiosity= 7
+Sporty= 6
+Pedantry= 5
+Writer= 3
+Task= Созданние новостной сводки
+Power= Peter
+Analitics= 6
+Curiosity= 4
+Sporty= 7
+Pedantry= 5
+Writer= 3
+Task= Спортсмен
+Power= Andrey
+Analitics= 10
+Curiosity= 5
+Sporty= 6
+Pedantry= 3
+Writer= 8
+Task= Доклад по теме занятия
+Power= Maxim
+Analitics= 9
+Curiosity= 3
+Sporty= 2
+Pedantry= 10
+Writer= 10
+Task= Журналист
+/
